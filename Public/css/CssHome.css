@@ -1,0 +1,214 @@
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('../Font/WorkSans-Italic-VariableFont_wght.ttf');
+  }
+
+*{
+    margin:0;
+}
+
+.Logo{
+    padding:15px 20px;
+}
+
+header{
+    height:80px;
+background-color:#1C1450;
+color:white;
+}
+
+.HeaderButton{
+    
+    text-decoration: none;
+    background-color: #1C1450;
+    color:white;
+    align-items: center;
+
+}
+
+.HeaderButton:hover{
+    color:#C81620;
+}
+
+.ButtonsInHeader{
+    padding-top: 35px;
+}
+
+.Presentation{
+        width: 100%;
+
+}
+.image_back{
+    position: absolute;
+   
+    width: 100%;
+
+}
+.box_base{
+    padding: 36px 31%;
+    position: relative;
+    
+}
+.box_ITC{
+    background: rgba(255, 255, 255, 0.81);
+    border-radius: 20px;
+    text-align: center;
+}
+.image_ITC_TALKS_2{
+    margin:16px auto;
+    width: 70%;
+    border-radius: 50%;
+
+}
+
+.Title_Event{
+    font-family: Work Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 72px;
+line-height: 84px;
+text-align: center;
+
+color: #D11526;
+}
+
+.Sub_Title_Evnet{
+    font-family: Work Sans;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 84px;
+    text-align: center;
+    
+    color: #D11526;
+}
+.SubText{
+    margin-top:80px ;
+    font-family: Work Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 24px;
+line-height: 28px;
+text-align: center
+}
+.image_ITC{
+    margin:16px auto;
+    width: 40%;
+    border-radius: 50%;
+}
+
+
+.About_Event{
+    margin:50px auto;
+    text-align: center;
+    padding: 60px auto;
+}
+
+.TitleArticle{
+    font-family: Work Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+text-align: center;
+}
+
+.SubTitle{
+    margin:45px auto;
+    
+font-family: Work Sans;
+font-style: italic;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+}
+
+.TextAboutEvent{
+    
+font-family: Work Sans;
+font-style: italic;
+font-weight: 500;
+font-size: 33px;
+line-height: 56px;
+text-align: center;
+
+}
+.EventDate{
+    margin: 50px auto;
+    text-align: center;
+}
+
+.EventDateText{
+    
+font-family: Work Sans;
+font-style: italic;
+font-weight: 500;
+font-size: 55px;
+line-height: 65px;
+text-align: center;
+}
+
+.Speakers{
+    margin: 100px auto ;
+    text-align: center;
+}
+
+.SpeakerRow{
+    margin:150px auto;
+}
+
+
+.SpeakerBlocks{
+    margin: 100px auto;
+    width: 70%;
+}
+
+.img_Speaker{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+.PresentSpeaker{
+   
+    text-decoration: none;
+    color: black;
+}
+
+.PresentSpeaker:hover{
+  
+    text-decoration: none;
+    color :#C81620;
+}
+
+.TextSpeaker{
+    margin:30px auto;
+}
+
+.LienSpeaker{
+    text-decoration: none;
+}
+
+.Register{
+    text-align: center;
+}
+
+
+.RegisterA{
+    text-decoration: none;
+    color: black;
+}
+
+.Register{
+    margin:100px auto;
+    text-align: center;
+}
+.RegisterA:hover{
+    text-decoration: none;
+    color: #C81620;
+}
