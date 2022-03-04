@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Work Sans';
+    src: url('../Font/WorkSans-Italic-VariableFont_wght.ttf');
+  }
+
+*{
+    margin:0;
+}
+
+
+.Logo{
+    padding:15px 20px;
+}
+
+header{
+    height:80px;
+background-color:#1C1450;
+color:white;
+}
+
+.HeaderButton{
+    
+    text-decoration: none;
+    background-color: #1C1450;
+    color:white;
+    align-items: center;
+
+}
+
+.HeaderButton:hover{
+    color:#C81620;
+}
+
+.ButtonsInHeader{
+    padding-top: 35px;
+}
+
+
+.GeneralPresentation{
+    text-align: center;
+}
+
+.imgSpaker{
+    margin :80px auto;
+    width: 30%;
+    height: 30%;
+
+    border-radius: 50%;
+}
+
+
+.TextNameProfession{
+    font-family: Work Sans;
+font-style: italic;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+}
+.DescribSpeaker{
+ 
+    margin: 80px auto;
+    padding: 0px 10%;
+}
+
+.TextDescribSpeaker{
+    width: 100%;
+    font-family: Work Sans;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: left;
+    line-height: 28px;
+}
+
+.ContactSpeaker{
+   
+}
+
+.TitleContact{
+    font-family: Work Sans;
+font-style: italic;
+font-weight: 500;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+}
+
+.imageContact{
+    width: 60%;
+}
+
+.BoxContact{
+    margin: 20px 20%;
+    text-align: center;
+    width:20%;
+}
