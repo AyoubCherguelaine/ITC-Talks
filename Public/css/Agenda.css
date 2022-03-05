@@ -1,0 +1,99 @@
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('../Font/WorkSans-Italic-VariableFont_wght.ttf');
+  }
+
+*{
+    margin:0;
+
+    font-family: Work Sans;
+}
+
+.Logo{
+    padding:15px 20px;
+}
+
+header{
+    height:80px;
+background-color:#1C1450;
+color:white;
+}
+
+.HeaderButton{
+    
+    text-decoration: none;
+    background-color: #1C1450;
+    color:white;
+    align-items: center;
+
+}
+
+.HeaderButton:hover{
+    color:#C81620;
+}
+
+.ButtonsInHeader{
+    padding-top: 35px;
+}
+
+main{
+    align-items: center;
+    text-align: center;
+    padding: 40px ;
+}
+
+
+.TitleArticle{
+    font-family: Work Sans;
+font-style: italic;
+font-weight: bold;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+margin:40px auto;
+text-align: center;
+}
+
+
+.table_schedule{
+    margin:80px auto;
+}
+.Schedule{
+    margin: 0px auto;
+    padding: 40px ;
+}
+
+.Impair{
+    background-color:#C81620;
+    color:white;
+}
+.pair{
+    background-color:white;
+    color: black;
+}
+
+.TimeSch{
+   
+    text-align: center;
+    font-size: large;
+   
+}
+
+.Tilel{
+    font-size:larger;
+    font-weight: bold;
+}
+
+.subTitle{
+    font-size: larger;
+
+}
+
+
+.SpeakerSch{
+    font-size: large;
+    font-weight: bold;
+}
+
+
